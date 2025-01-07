@@ -1,36 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   
-</head>
-<body>
-    <h1>Welcome to My Project</h1>
-</body>
-</html>
+# Welcome to My Project
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
 
-<body>
-    <div class="container">
-        <img src="image.png" alt="E-commerce Inventory Management">
-        <div class="description">
-            <h2>E-commerce Inventory Management System</h2>
-            <p>An E-commerce Inventory Management System includes four key modules: <strong>Product</strong> (tracks product details), <strong>Stock</strong> (monitors inventory levels), <strong>Order</strong> (manages order processing), and <strong>Report & Analytics</strong> (provides sales and stock insights). These modules work together to optimize stock levels, streamline operations, and improve decision-making. It ensures accurate inventory tracking and timely order fulfillment.</p>
-        </div>
-    </div>
-</body>
-</html>
+## E-Commerece Inventory Management System Project
+
+
+      
+
+
 
 
 # DAAportfolio.github.io
 ## Portfolio
 
+<img src="https://th.bing.com/th/id/OIP.ynGTDpIKTEI6aQTRQNJW1AHaHB?rs=1&pid=ImgDetMain" alt="Description of the image" width="600">
 ### Hello, I'm [SOURAV G YALLUR] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
@@ -87,6 +70,3 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
     </div>
 </body>
 </html>
-
-
-
